@@ -1,6 +1,6 @@
 # Phase Shifting Index, Fondrie D'arling 
 
-![photo](Lumieres.jpeg)
+![photo](vue_ensemble_panorama.JPG)
 
 
 
