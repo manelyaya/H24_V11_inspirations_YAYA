@@ -1,6 +1,6 @@
 # Canevas Cosmique
 
-![photo](Canevas_Cosmique.jpeg)
+![photo](images/Canevas_Cosmique.jpeg)
 
 ## **Description**
 
