@@ -81,7 +81,7 @@ Ce qui m'a un peu déplu était un élément de la partie deux. Lorsque les lumi
  ## **Ma photo favoris de l'exposition**
 
 
- ![photo](Vue_enesmble.jpeg)
+ ![photo](Vue_enesmble_2.jpeg)
 
 
 
