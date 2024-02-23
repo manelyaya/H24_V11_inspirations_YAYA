@@ -24,3 +24,34 @@ Cette oeuvre est immersive car elle met l'utilisateur a son centre. Sans l'inter
 ![photo](images/Table_interactive_CC.jpeg)
 
 
+## **Le matériel requis**
+
+Audio
+
+2 haut-parleurs
+4 fils XLR 3 conducteurs de 15' (M->F)
+1 carte de son
+Vidéo
+
+2 projecteurs vidéo shortrow
+3 système d'acrochage
+1 caméra infrarouge
+Électricité
+
+2 cordon IEC (pour l'alimentation des haut-parleurs)
+2 multiprise
+Réseau
+
+Switch poe 2 ports
+5 Cables Ethernet
+2 Cables HDMI
+2 Receivers HDMI
+2 Sender HDMI
+1 Capture card
+Ordinateur
+
+1 ordinateur
+micro ordinateur
+
+1 raspberry pi
+
