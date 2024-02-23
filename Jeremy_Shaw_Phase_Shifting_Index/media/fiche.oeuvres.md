@@ -34,6 +34,14 @@ source: cartel
 
 ![photo](Ecran_3_gauche.jpeg)
 
+![photo](ecran_4.jpeg)
+
+![photo](Ecran_5_centre.jpeg)
+
+![photo](Ecran_6_droite.jpeg)
+
+![photo](Ecran_7_droite.jpeg)
+
 
 
 
