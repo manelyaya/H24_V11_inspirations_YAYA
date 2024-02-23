@@ -55,9 +55,11 @@ Les haut-parleurs et les lumières sont les composantes et techniques les plus p
 
 ![photo](Instalation_vue_ensemble.png)
 
+## **Éléments nécessaires à la mise en exposition**
+Bancs et projecteurs
 
-
-
+ ## **Expérience vécue**
+ Les visiteurs 
 
 
 
