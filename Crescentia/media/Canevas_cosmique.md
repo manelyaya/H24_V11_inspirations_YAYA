@@ -19,3 +19,6 @@ Cette oeuvre est immersive car elle met l'utilisateur a son centre. Sans l'inter
 
 5.Mikaël Tourangeau
 
+## **Voici une photo de la table interactive**
+
+
