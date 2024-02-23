@@ -28,7 +28,11 @@ Installation vidéographique à sept canaux, en couleur et en noir et blanc, ave
 source: cartel
 ## **Vue des écrans**
 
-![photo](Ecran)
+![photo](Ecran_1_gauche.jpeg)
+
+![photo](Ecran_2_gauche.jpeg)
+
+![photo](Ecran_3_gauche.jpeg)
 
 
 
