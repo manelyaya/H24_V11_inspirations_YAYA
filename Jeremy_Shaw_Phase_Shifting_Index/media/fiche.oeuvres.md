@@ -59,7 +59,15 @@ Les haut-parleurs et les lumières sont les composantes et techniques les plus p
 Bancs et projecteurs
 
  ## **Expérience vécue**
- Les visiteurs 
+ Les visiteurs peuvent se promener entre les écrans, s'asseoir sur les bancs pour observer les écrans. L'expérience n'est pas nécessairement interactive mais plutôt immersive. Les haut-parleurs ont des positions précises qui permettent aux visiteurs de se faire envelopper par le son. L'expérience a trois parties : la partie de la présentation des groupes, la partie de la chorégraphie et la partie relaxante. Durant la première partie, il y a un narrateur qui nous explique ce que les groupes font et il y a aussi des dialogues. Dans la deuxième partie, le son devient plus fort et il y a une chorégraphie synchronisée avec les 7 écrans. Les lumières sont très fortes et éblouissent les visiteurs. Les personnages se déplacent d'écran en écran, c'est donc là qu'on comprend que ces vidéos ont été filmées toutes au même moment. Enfin, la dernière partie est relaxante, le son est calme et apaisant.
+
+![photo](vue_partie_relaxante.jpeg)
+ 
+
+
+
+
+
 
 
 
