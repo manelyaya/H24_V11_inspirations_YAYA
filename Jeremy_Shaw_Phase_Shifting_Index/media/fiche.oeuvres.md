@@ -42,6 +42,24 @@ source: cartel
 
 ![photo](Ecran_7_droite.jpeg)
 
+## **Croquis**
+
+![photo](croquis.image.jpeg)
+
+Une pièce avec 7 écrans, disposés comme montré sur les photos, occupant tout l'espace mais laissant place à l'immersion.
+
+## **Composantes et techniques**
+Les haut-parleurs et les lumières sont les composantes et techniques les plus présentes dans la pièce.
+
+![photo](Instalation_2.jpeg)
+
+![photo](Instalation_Vue_ensemble.png)
+
+
+
+
+
+
 
 
 
