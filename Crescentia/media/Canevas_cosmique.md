@@ -49,9 +49,24 @@ Switch poe 2 ports
 2 Sender HDMI
 1 Capture card
 Ordinateur
-
 1 ordinateur
 micro ordinateur
 
 1 raspberry pi
+
+## **Logiciels requis**
+
+1.Touch Designer
+
+2.Unity 2019 lts
+
+3.Autodesk Maya
+
+4.VCV Rack
+
+5.OBS
+
+6.Reaper
+
+7.MadMapper
 
