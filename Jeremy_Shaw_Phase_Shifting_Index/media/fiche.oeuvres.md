@@ -8,7 +8,9 @@
 
 ![photo](Titre_exposition.jpeg)
 
-
+## **Artiste**
+Voici comment Jeremy Shaw est décrit par le MAC : Jeremy Shaw (né en 1977 à North Vancouver, Canada) travaille dans divers médias pour explorer les états altérés et les pratiques culturelles et scientifiques qui aspirent à cartographier l'expérience transcendantale.
+source:https://macm.org/en/exhibitions/jeremy-shaw/
 ## **Date de l'exposition**
 La date de l'exposition était le 2 février. Cette exposition est intérieure et temporaire. Sa première apparition était en France, puis elle a changé pour venir ici à Montréal. Cette exposition est donc itinérante ou nomade car elle change de pays.
 
