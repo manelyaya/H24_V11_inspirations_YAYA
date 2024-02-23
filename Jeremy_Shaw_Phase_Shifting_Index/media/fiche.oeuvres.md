@@ -6,5 +6,8 @@
 
 ![photo](Affiche_exposition.jpeg)
 
+![photo](Titre_exposition.jpeg)
+
+
 
 
