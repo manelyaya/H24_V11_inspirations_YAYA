@@ -2,5 +2,6 @@
 
 ![photo](vue_ensemble_panorama.JPG)
 
+Voici l'affiche de l'exposition
 
 
