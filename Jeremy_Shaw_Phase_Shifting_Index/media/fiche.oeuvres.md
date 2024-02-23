@@ -53,7 +53,7 @@ Les haut-parleurs et les lumières sont les composantes et techniques les plus p
 
 ![photo](Instalation_2.jpeg)
 
-![photo](Instalation_Vue_ensemble.png)
+![photo](Instalation_vue_ensemble.png)
 
 
 
