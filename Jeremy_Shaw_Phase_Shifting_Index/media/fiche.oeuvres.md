@@ -2,6 +2,9 @@
 
 ![photo](vue_ensemble_panorama.JPG)
 
-Voici l'affiche de l'exposition
+## **Voici l'affiche de l'exposition**
+
+![photo](Affiche_exposition.jpeg)
+
 
 
