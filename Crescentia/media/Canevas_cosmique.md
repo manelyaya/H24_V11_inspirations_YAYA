@@ -70,3 +70,10 @@ micro ordinateur
 
 7.MadMapper
 
+
+## **Expérience vécue**
+
+L'interacteur doit se positionner face à la table et utiliser les petites feuilles carrées magnétiques qui font bouger les différents éléments. Sur la table, on retrouve des planètes, un trou noir, le soleil et la lune. Plusieurs réactions sont possibles : on peut juxtaposer des planètes et les fusionner, créer des explosions, etc.
+
+
+
