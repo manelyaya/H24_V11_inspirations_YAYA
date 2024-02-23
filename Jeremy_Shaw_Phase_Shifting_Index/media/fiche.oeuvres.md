@@ -46,6 +46,8 @@ source: cartel
 
 ![photo](croquis.image.jpeg)
 
+## **croquis**
+
 Une pièce avec 7 écrans, disposés comme montré sur les photos, occupant tout l'espace mais laissant place à l'immersion.
 
 ## **Composantes et techniques**
@@ -65,7 +67,7 @@ Bancs, projecteurs, cache-fils. Les fils et la base de contrôle sont cachés so
 
 
  ## **❤️**
-Ce qui m'a plu le plus, c'est le fait qu'on ne s'attend pas à ce que toutes les vidéos soient filmées au même moment. Dans la tête des visiteurs, les 7 vidéos semblent venir de différentes années car certaines sont en noir et blanc, tandis que d'autres sont en couleurs. Leurs vêtements et leur environnement nous font croire que ces vidéos ont toutes été filmées à des époques différentes. Mais lorsque la deuxième partie avec la chorégraphie arrive, l'expérience fait beaucoup plus de sens qu'au début. J'ai aussi aimé les lumières qui sont placées juste au-dessus des bancs pour que les visiteurs se sentent visés et immergés.
+Ce qui m'a plu le plus, c'est le fait qu'on ne s'attend pas à ce que toutes les vidéos soient filmées au même moment. Dans la tête des visiteurs, les 7 vidéos semblent venir de différentes années car certaines sont en noir et blanc, tandis que d'autres sont en couleurs. Leurs vêtements et leur environnement nous font croire que ces vidéos ont toutes été filmées à des époques différentes. Mais lorsque la deuxième partie avec la chorégraphie arrive, l'expérience fait beaucoup plus de sens qu'au début. J'ai aussi aimé les lumières qui sont placées juste au-dessus des bancs pour que les visiteurs se sentent visés et immergés. L'idée que cela m'a données pour un futur projet incluent d'isoler les visiteurs grâce à des lumières et des haut-parleurs pour qu'ils se sentent au centre de l'expérience et qu'ils vivent celle-ci à 100%
 
 
 ![photo](Lumieres.jpeg)
