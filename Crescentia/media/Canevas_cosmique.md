@@ -10,8 +10,12 @@ Cette oeuvre est immersive car elle met l'utilisateur a son centre. Sans l'inter
 
 ## **Noms des réalisateurs**
 1.Jacob Alarie-Brousseau
+
 2.Étienne Charron
+
 3.Jérémy Cholette
+
 4.Quoc Huy Do
+
 5.Mikaël Tourangeau
 
