@@ -78,7 +78,7 @@ Ce qui m'a plu le plus, c'est le fait qu'on ne s'attend pas à ce que toutes les
  ## **🤔**
 Ce qui m'a un peu déplu était un élément de la partie deux. Lorsque les lumières flashaient sans arrêt, j'ai trouvé que ce n'était pas juste pour les gens sensibles aux lumières fortes. Les lumières nous éblouissaient et on voulait fermer les yeux, ce qui nous empêche de vivre l'expérience au complet, car en fermant les yeux, on peut manquer des éléments importants de l'exposition.
 
- ## **Ma photo favoris de l'exposition**
+ ## **Ma photo et ma partie favoris de l'exposition**
 
 
  ![photo](Vue_enesmble_2.jpeg)
