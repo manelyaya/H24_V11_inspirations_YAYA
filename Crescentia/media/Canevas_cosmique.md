@@ -21,4 +21,6 @@ Cette oeuvre est immersive car elle met l'utilisateur a son centre. Sans l'inter
 
 ## **Voici une photo de la table interactive**
 
+![photo](images/Table_interactive_CC.jpeg)
+
 
