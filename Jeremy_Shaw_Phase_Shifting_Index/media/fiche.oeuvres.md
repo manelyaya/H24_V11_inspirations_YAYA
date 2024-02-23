@@ -23,6 +23,13 @@ Cette œuvre est immersive et non interactive : on peut se déplacer autour et s
 
 ![photo](cartel.image.png)
 
+## **Voici la descrption**
+Installation vidéographique à sept canaux, en couleur et en noir et blanc, avec un son multicanaux et des lumières, d'une durée de 35 minutes et 17 secondes.
+source: cartel
+## **Vue des écrans**
+
+![photo](Ecran)
+
 
 
 
