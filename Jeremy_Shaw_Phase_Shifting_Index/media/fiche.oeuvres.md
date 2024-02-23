@@ -56,12 +56,26 @@ Les haut-parleurs et les lumières sont les composantes et techniques les plus p
 ![photo](Instalation_vue_ensemble.png)
 
 ## **Éléments nécessaires à la mise en exposition**
-Bancs et projecteurs
+Bancs, projecteurs, cache-fils. Les fils et la base de contrôle sont cachés sous les bancs.
 
  ## **Expérience vécue**
  Les visiteurs peuvent se promener entre les écrans, s'asseoir sur les bancs pour observer les écrans. L'expérience n'est pas nécessairement interactive mais plutôt immersive. Les haut-parleurs ont des positions précises qui permettent aux visiteurs de se faire envelopper par le son. L'expérience a trois parties : la partie de la présentation des groupes, la partie de la chorégraphie et la partie relaxante. Durant la première partie, il y a un narrateur qui nous explique ce que les groupes font et il y a aussi des dialogues. Dans la deuxième partie, le son devient plus fort et il y a une chorégraphie synchronisée avec les 7 écrans. Les lumières sont très fortes et éblouissent les visiteurs. Les personnages se déplacent d'écran en écran, c'est donc là qu'on comprend que ces vidéos ont été filmées toutes au même moment. Enfin, la dernière partie est relaxante, le son est calme et apaisant.
 
 ![photo](vue_partie_relaxante.jpeg)
+
+
+ ## **❤️**
+Ce qui m'a plu le plus, c'est le fait qu'on ne s'attend pas à ce que toutes les vidéos soient filmées au même moment. Dans la tête des visiteurs, les 7 vidéos semblent venir de différentes années car certaines sont en noir et blanc, tandis que d'autres sont en couleurs. Leurs vêtements et leur environnement nous font croire que ces vidéos ont toutes été filmées à des époques différentes. Mais lorsque la deuxième partie avec la chorégraphie arrive, l'expérience fait beaucoup plus de sens qu'au début. J'ai aussi aimé les lumières qui sont placées juste au-dessus des bancs pour que les visiteurs se sentent visés et immergés.
+
+
+![photo](Lumieres.jpeg)
+
+
+
+
+
+
+
  
 
 
