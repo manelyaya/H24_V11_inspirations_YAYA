@@ -1,3 +1,3 @@
 # Canevas Cosmique
 
-![photo](Canevas_Cosmique.png)
+![photo](Canevas_Cosmique.png.jpeg)
