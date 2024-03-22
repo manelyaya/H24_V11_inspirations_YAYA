@@ -1,13 +1,13 @@
-# Canevas Cosmique (2024)
+# Canevas cosmique (2024)
 
 ![photo](images/Canevas_Cosmique.jpeg)
 Photo du projet
 
 ## **Description**
 
-Canevas Cosmique est une simulation d'un système solaire. C'est une œuvre interactive qui donne le pouvoir à l'utilisateur de déclencher toutes sortes de réactions dans l'espace. Elle se présente sous la forme d'une installation intérieure dans un laboratoire, avec une table et une image projetée sur le mur.
+Canevas cosmique est une simulation d'un système solaire. C'est une œuvre interactive qui donne le pouvoir à l'utilisateur de déclencher toutes sortes de réactions dans l'espace. Elle se présente sous la forme d'une installation intérieure dans un laboratoire, avec une table et une image projetée sur le mur.
 
-Cette oeuvre est immersive car elle met l'utilisateur a son centre. Sans l'interaction du Participant
+Cette œuvre est immersive, car elle met l'utilisateur à son centre. Sans l'interaction du Participant
 
 ## **Noms des réalisateurs**
 1.Jacob Alarie-Brousseau
@@ -57,6 +57,7 @@ micro ordinateur
 1 raspberry pi
 
 ![photo](images/statut.jpeg)
+Photo de la statue à la fin du projet
 
 ## **Logiciels requis**
 
