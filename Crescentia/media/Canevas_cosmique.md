@@ -56,6 +56,8 @@ micro ordinateur
 
 1 raspberry pi
 
+![photo](images/statut.jpeg)
+
 ## **Logiciels requis**
 
 1.Touch Designer
