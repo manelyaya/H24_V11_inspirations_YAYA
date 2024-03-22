@@ -79,6 +79,6 @@ L'interacteur doit se positionner face à la table et utiliser les petites feuil
 
 ## **Voici une vue d'ensemble du projet non fini**
 
-![photo](vue_d'ensemble.jpeg)
+![photo](images/vue_d'ensemble.jpeg)
 
 
