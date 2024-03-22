@@ -81,4 +81,11 @@ L'interacteur doit se positionner face à la table et utiliser les petites feuil
 
 ![photo](images/vue_d'ensemble.jpeg)
 
+## **Ce que j'ai aimé**
+Je trouve que l'aspect interactif m’a vraiment plu, car une exposition qui engage les visiteurs va toujours être plus pertinente, car on se sent important. Le deuxième aspect que j'ai aime et le thème de l'exposition. L'espace est un thème qui intéresse une grande majorité, ce qui rend cette exposition multimédia évoquant.
 
+
+## **Ce que j’aurais amélioré**
+Ce que j’aurais amélioré serait l’aspect audio.Il n’y avait pas de musique de fond et cela aurait ajouté une meilleure expérience pour les utilisateurs. Rendre les effets sonores plus forts et on mettre plus, car ça ajoute de la dimension a l’expérience.
+
+## **Le projet fini**
