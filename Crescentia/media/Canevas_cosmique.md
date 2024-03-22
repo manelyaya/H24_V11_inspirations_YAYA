@@ -23,7 +23,10 @@ Cette œuvre est immersive, car elle met l'utilisateur à son centre. Sans l'int
 ## **Voici une photo de la table interactive**
 
 ![photo](images/Table_interactive_CC.jpeg)
-Photo de la table et des statuts
+Photo de la table et des statues
+
+![photo](images/table_fin.jpeg)
+Le résultat final de la table interactive
 
 
 ## **Le matériel requis**
