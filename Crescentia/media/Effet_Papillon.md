@@ -33,6 +33,8 @@ La source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/prep
  l'aspect interactive:
 
  ![photo](images/Aspect_interactive_papillon.jpg)
+ ![photo](images/arbre_haut.webp)
+ 
  
 
 
