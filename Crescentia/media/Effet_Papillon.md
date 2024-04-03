@@ -22,3 +22,13 @@ Crisentia" signifie croissance, et comme dans l'effet papillon, on observe une p
 
 
 ![photo](images/shcema_papillon.png)
+
+La source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html
+
+# Mon expérience
+ J'ai beaucoup aimé cette installation. J'ai trouvé qu'elle respectait bien le thème de la croissance, et que les effets sonores, lumineux et visuels étaient très bien pensés pour nous immerger dans cette expérience. J'ai aussi apprécié l'aspect interactif qui consistait à donner de l'eau à la plante pour qu'elle grandisse."
+
+ # Photos du projets
+ 
+
+
