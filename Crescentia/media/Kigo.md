@@ -14,12 +14,12 @@ Photo du projet
 Le lien entre la croissance et le projet de Kingo est les saisons. Dans cette exposition, on représente les 4 saisons comme des niveaux de difficulté différents. Les saisons représentent donc la vie et, en quelque sorte, la croissance.
 #l'installation en cours
 
-![photo](images/Exposition_en_cour.jpg)
+![photo](images/Kingo_2.jpg)
 
 # le schéma de l'installation prévue
 
 
-![photo](images/shcema_papillon.png)
+![photo](images/)
 
 La source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html
 
