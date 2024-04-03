@@ -1,19 +1,17 @@
 # Effet Papillon (2024)
 
-![photo](images/Effet_Papillon_debut2.jpeg)
+![photo](images/Kingo.jpg)
 Photo du projet
 
 # créateurs et créatrices
-1.Raphaël Dumont
-2.Alexis Bolduc
-3.William Morel
-4.Alexia (Ryan) Papanikolaou
-5.Viktor Zhuravlev
-6.Jasmine Lapierre
+1.Érick Ouellette
+2.Érick Ouellette
+3.Gabriel Clerval
+4.Nicolas St-Martin
+5.Antoine Dion
 
 # Le lien
-Crisentia" signifie croissance, et comme dans l'effet papillon, on observe une plante qui prend vie et qui grandit. Le lien entre les deux est assez fort et visible, et il est bien représenté avec cette exposition multimédia.
-
+Le lien entre la croissance et le projet de Kingo est les saisons. Dans cette exposition, on représente les 4 saisons comme des niveaux de difficulté différents. Les saisons représentent donc la vie et, en quelque sorte, la croissance.
 #l'installation en cours
 
 ![photo](images/Exposition_en_cour.jpg)
