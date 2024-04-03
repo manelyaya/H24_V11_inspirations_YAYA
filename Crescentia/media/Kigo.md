@@ -21,16 +21,9 @@ Le lien entre la croissance et le projet de Kingo est les saisons. Dans cette ex
 
 ![photo](images/plantation_technique_kingo.png)
 
-La source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html
+La source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 
 # Mon expérience
- J'ai beaucoup aimé cette installation. J'ai trouvé qu'elle respectait bien le thème de la croissance, et que les effets sonores, lumineux et visuels étaient très bien pensés pour nous immerger dans cette expérience. J'ai aussi apprécié l'aspect interactif qui consistait à donner de l'eau à la plante pour qu'elle grandisse."
-
-
- # Photos du projets
- l'aspect interactive:
-
- ![photo](images/Aspect_interactive_papillon.jpg)
- ![photo](images/arbre_haut.webp)
+ J'ai trouvé que cette exposition était la plus interactive de toutes les expériences. Le thème de la croissance n'est pas si clair, mais on le comprend avec les changements de saisons. Je trouve que le jeu est très amusant et nous incite à bouger, ce qui est bénéfique.
 
  # SOURCE: https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
