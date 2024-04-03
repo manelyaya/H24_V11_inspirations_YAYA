@@ -1,6 +1,6 @@
 # Rhizomatique (2024)
 
-![photo](images/Kingo.jpg)
+![photo](images/Rhizo.jpg)
 Photo du projet
 
 # créateurs et créatrices
