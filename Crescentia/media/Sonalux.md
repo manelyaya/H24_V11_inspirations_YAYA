@@ -1,6 +1,6 @@
 # Sonalux (2024)
 
-![photo](images/Sonalux (2).jpeg)
+![photo](images/Sonalux.jpeg)
 Photo du projet
 
 # créateurs et créatrices
