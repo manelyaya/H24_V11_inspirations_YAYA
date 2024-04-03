@@ -1,4 +1,4 @@
-# Effet Papillon (2024)
+# Kingo (2024)
 
 ![photo](images/Kingo.jpg)
 Photo du projet
