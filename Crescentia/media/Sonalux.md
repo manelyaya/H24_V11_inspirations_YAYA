@@ -23,9 +23,11 @@ Le lien entre Crescencia et Sonalux se fait par rapport au temps. Le temps est l
 # le schéma de l'installation prévue
 
 
-![photo](images/rhizomatique_plantation.drawio.png)
+![photo](images/schema_branchement_boite_sonore.png)
 
-La source: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
+![photo](images/schema_branchement.png)
+
+La source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html
 
 # Mon expérience
 Mon expérience avec cette exposition était très positive car je peux très bien voir le lien entre Crescencia et ce projet. Il est interactif et nous ramène à l'enfance. J'ai trouvé que le filet qui sert de cerveau est très bien pensé, et le projet est aussi esthétiquement plaisant.
