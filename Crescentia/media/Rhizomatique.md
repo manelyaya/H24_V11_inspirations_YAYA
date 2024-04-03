@@ -21,10 +21,10 @@ Le lien entre la croissance et Rhizomatique est très présent car on met en ava
 
 ![photo](images/rhizomatique_plantation.drawio.png)
 
-La source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
+La source: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
 
 # Mon expérience
- J'ai trouvé que cette exposition était la plus interactive de toutes les expériences. Le thème de la croissance n'est pas si clair, mais on le comprend avec les changements de saisons. Je trouve que le jeu est très amusant et nous incite à bouger, ce qui est bénéfique.
+Mon expérience avec cette exposition était très positive car je peux très bien voir le lien entre Crescencia et ce projet. Il est interactif et nous ramène à l'enfance. J'ai trouvé que le filet qui sert de cerveau est très bien pensé, et le projet est aussi esthétiquement plaisant.
 
  # SOURCE: https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
 
