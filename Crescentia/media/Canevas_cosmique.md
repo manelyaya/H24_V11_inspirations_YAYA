@@ -94,6 +94,7 @@ Je trouve que l'aspect interactif m’a vraiment plu, car une exposition qui eng
 ## **Ce que j’aurais amélioré**
 Ce que j’aurais amélioré serait l’aspect audio.Il n’y avait pas de musique de fond et cela aurait ajouté une meilleure expérience pour les utilisateurs. Rendre les effets sonores plus forts et on mettre plus, car ça ajoute de la dimension a l’expérience.
 
-## **Le projet fini**
+## **Projet terminé**
 ![photo](images/projet_fini.jpeg)
-Projet terminé
+![photo](images/projet_fini.jpeg)
+
