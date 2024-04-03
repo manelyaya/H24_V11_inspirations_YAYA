@@ -4,15 +4,15 @@
 Photo du projet
 
 # créateurs et créatrices
-1.Érick Ouellette
-2.Érick Ouellette
-3.Gabriel Clerval
-4.Nicolas St-Martin
-5.Antoine Dion
+1.Jolyanne Desjardins
+2.MaÏka Désy
+3.Laurie Houde
+4.Felix Testa Radovanovic
 
 # Le lien
-Le lien entre la croissance et le projet de Kingo est les saisons. Dans cette exposition, on représente les 4 saisons comme des niveaux de difficulté différents. Les saisons représentent donc la vie et, en quelque sorte, la croissance.
-#l'installation en cours
+Le lien entre la croissance et Rhizomatique est très présent car on met en avant les souvenirs de l'enfance et le fait que notre cerveau garde ses souvenirs quand on grandit
+
+# l'installation en cours
 
 ![photo](images/Kingo_2.jpg)
 
