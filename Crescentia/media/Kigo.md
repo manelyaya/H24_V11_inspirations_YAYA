@@ -19,7 +19,7 @@ Le lien entre la croissance et le projet de Kingo est les saisons. Dans cette ex
 # le schéma de l'installation prévue
 
 
-![photo](images/)
+![photo](images/plantation_technique_kingo.png)
 
 La source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html
 
