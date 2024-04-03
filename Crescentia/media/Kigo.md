@@ -5,9 +5,13 @@ Photo du projet
 
 # créateurs et créatrices
 1.Érick Ouellette
+
 2.Érick Ouellette
+
 3.Gabriel Clerval
+
 4.Nicolas St-Martin
+
 5.Antoine Dion
 
 # Le lien
