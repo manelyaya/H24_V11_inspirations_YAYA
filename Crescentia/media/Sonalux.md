@@ -4,17 +4,17 @@
 Photo du projet
 
 # créateurs et créatrices
-1.Jolyanne Desjardins
+1.Antoine Haddad
 
-2.MaÏka Désy
+2.Camélie Laprise
 
-3.Laurie Houde
+3.Ghita Alaoui
 
-4.Felix Testa Radovanovic
+4.Vincent Desjardins
 
 
 # Le lien
-Le lien entre la croissance et Rhizomatique est très présent car on met en avant les souvenirs de l'enfance et le fait que notre cerveau garde ses souvenirs quand on grandit
+Le lien entre Crescencia et Sonalux se fait par rapport au temps. Le temps est le thème principal de cette exposition qui nous représente la croissance grâce à l'évolution
 
 # l'installation en cours
 
