@@ -28,7 +28,13 @@ La source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/prep
 # Mon expérience
  J'ai beaucoup aimé cette installation. J'ai trouvé qu'elle respectait bien le thème de la croissance, et que les effets sonores, lumineux et visuels étaient très bien pensés pour nous immerger dans cette expérience. J'ai aussi apprécié l'aspect interactif qui consistait à donner de l'eau à la plante pour qu'elle grandisse."
 
+ # Cours
+Les cours que je pense sont importants pour réaliser cette exposition sont : Audio pour l'aspect sonore de l'expérience, Web pour la programmation et Modélisation 3D pour les objets en 3D."
+
  # Photos du projets
+ l'aspect interactive:
+
+ ![photo](images/shcema_papillon.png)
  
 
 
