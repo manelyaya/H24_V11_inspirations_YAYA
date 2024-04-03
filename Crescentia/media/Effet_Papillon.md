@@ -34,7 +34,7 @@ Les cours que je pense sont importants pour réaliser cette exposition sont : Au
  # Photos du projets
  l'aspect interactive:
 
- ![photo](images/shcema_papillon.png)
+ ![photo](images/Aspect_interactive_papillon.jpg)
  
 
 
