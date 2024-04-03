@@ -15,3 +15,5 @@ Photo du projet
 Crisentia" signifie croissance, et comme dans l'effet papillon, on observe une plante qui prend vie et qui grandit. Le lien entre les deux est assez fort et visible, et il est bien représenté avec cette exposition multimédia.
 
 #l'installation en cours
+
+![photo](images/Exposition_en_cour.jpg)
