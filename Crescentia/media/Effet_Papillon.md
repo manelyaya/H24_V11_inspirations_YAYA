@@ -17,3 +17,5 @@ Crisentia" signifie croissance, et comme dans l'effet papillon, on observe une p
 #l'installation en cours
 
 ![photo](images/Exposition_en_cour.jpg)
+
+# le schéma de l'installation prévue
