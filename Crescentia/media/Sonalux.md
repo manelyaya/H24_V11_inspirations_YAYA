@@ -18,7 +18,7 @@ Le lien entre Crescencia et Sonalux se fait par rapport au temps. Le temps est l
 
 # l'installation en cours
 
-![photo](images/Rhizo_en_cour.jpg)
+![photo](images/solanux_non_fini.jpeg)
 
 # le schéma de l'installation prévue
 
