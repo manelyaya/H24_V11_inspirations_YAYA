@@ -5,9 +5,13 @@ Photo du projet
 
 # créateurs et créatrices
 1.Jolyanne Desjardins
+
 2.MaÏka Désy
+
 3.Laurie Houde
+
 4.Felix Testa Radovanovic
+
 
 # Le lien
 Le lien entre la croissance et Rhizomatique est très présent car on met en avant les souvenirs de l'enfance et le fait que notre cerveau garde ses souvenirs quand on grandit
