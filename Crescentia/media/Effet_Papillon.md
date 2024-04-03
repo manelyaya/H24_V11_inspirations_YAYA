@@ -1,5 +1,5 @@
 # Effet Papillon (2024)
 
-![photo](images/Canevas_Cosmique.jpeg)
+![photo](images/Effet_Papillon_debut)
 Photo du projet
 
