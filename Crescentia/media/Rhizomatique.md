@@ -19,7 +19,7 @@ Le lien entre la croissance et Rhizomatique est très présent car on met en ava
 # le schéma de l'installation prévue
 
 
-![photo](images/plantation_technique_kingo.png)
+![photo](images/rhizomatique_plantation.drawio.png)
 
 La source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html
 
