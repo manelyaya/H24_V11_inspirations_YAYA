@@ -14,7 +14,7 @@ Le lien entre la croissance et Rhizomatique est très présent car on met en ava
 
 # l'installation en cours
 
-![photo](images/Kingo_2.jpg)
+![photo](images/Rhizo_en_cour.jpg)
 
 # le schéma de l'installation prévue
 
