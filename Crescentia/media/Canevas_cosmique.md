@@ -96,5 +96,5 @@ Ce que j’aurais amélioré serait l’aspect audio.Il n’y avait pas de musiq
 
 ## **Projet terminé**
 ![photo](images/projet_fini.jpeg)
-![photo](projet_fini_zoom.jpeg)
+![photo](images/projet_fini_zoom.jpeg)
 
