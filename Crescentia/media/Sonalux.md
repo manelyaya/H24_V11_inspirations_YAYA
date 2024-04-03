@@ -1,6 +1,6 @@
 # Sonalux (2024)
 
-![photo](images/Rhizo.jpg)
+![photo](images/Sonalux (2).jpeg)
 Photo du projet
 
 # créateurs et créatrices
