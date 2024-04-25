@@ -45,7 +45,8 @@ source:https://www.mbam.qc.ca/fr/expositions/nathalie-bujold/
 
 ## **❤️ et 🤔 **
 Ce que j'ai aimé de cette œuvre, c'est le fait qu'elle soit accessible à tout le monde. J'aime aussi le fait que ce soit une œuvre de soir et que le spectateur doive juste admirer. D'un autre côté, je préfère les expositions interactives car elles intriguent le spectateur et le font réagir davantage. Cette œuvre est beaucoup plus calme et contemplative, ce que j'ai beaucoup apprécié.
-
+## **Références**
+https://www.mbam.qc.ca/fr/expositions/nathalie-bujold/
 
 
 
