@@ -33,7 +33,7 @@ Ce dispositif est permanent et est renouvelé tous les 10 ans, donc en 2027 pour
 Ce que j'ai aimé dans ce dispositif en particulier est sa simplicité du point de vue interactif mais aussi technique. Il n'y a pas tant de composantes techniques utilisées car l'équipe de production des centres des sciences veut garder un budget minimal, ce qui leur permet d'être créatif lorsqu'ils doivent faire fonctionner leur dispositif et trouver des solutions à leurs problèmes. J'ai aussi beaucoup aimé le fait que le cœur s'allume lorsqu'on trouve les bonnes réponses car cela récompense l'utilisateur, ce qui le rend heureux.
 
 ## **Les credits**
-![photo](Credits2.jpeg)
+![photo](Credits2.png)
 
-![photo](Credits3.jpeg)
+![photo](Credits3.png)
 
