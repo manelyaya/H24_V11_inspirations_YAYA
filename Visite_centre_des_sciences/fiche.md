@@ -17,6 +17,8 @@ Le but de ce dispositif est d'interagir avec et de trouver les bonnes réponses 
 ## **Composantes et techniques**
 Les composantes techniques utilisées pour ce dispositif sont : des électro-aimants, des capteurs, des haut-parleurs, une boîte lumineuse et bien sûr de la programmation.
 
+![photo](composantes.jpeg)
+
 ## **Type de dispositif**
 
 Ce dispositif est permanent et est renouvelé tous les 10 ans, donc en 2027 pour le prochain renouvellement. La plupart des expositions fonctionnent environ 80 % du temps car les technologies ne durent au maximum que 4 ans, ce qui peut poser des défis aux équipes de production. Le budget est un gros problème car les nouvelles technologies coûtent très cher, donc il faut trouver des solutions astucieuses et à bas coût pour régler les problèmes techniques des dispositifs.
