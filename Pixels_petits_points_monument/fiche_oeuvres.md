@@ -11,7 +11,10 @@ L'exposition est temporaire et se déroule seulement le soir, entre la tombée d
  ## **Composantes**
 synthétiseur vidéo
 
-Projecteur
+Projecteurs
+
+ ![photo](Projecteurs.jpeg)
+
 
 ## **Lieu de mise en exposition**
 11 septembre 2023 – 31 mars 2024
