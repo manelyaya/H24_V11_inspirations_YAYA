@@ -33,7 +33,11 @@ Nathalie Bujold est une artiste qui vit ici à Montréal et qui a des œuvres du
 
 
 ![photo](toile_nathaliebujold_par_emmaongman_01_f_rec-fr-1695755687.webp)
-Une image de l'artiste
+
+
+ ## **Expérience vécue**
+La manière de vivre cette expérience est simplement de la regarder et d'admirer les couleurs et motifs qui changent. Cette œuvre rend hommage à la peinture abstraite et à l'art du textile grâce au numérique. Le spectateur n'est pas censé faire quoi que ce soit car il n'y a aucune interaction.
+ 
 
  ## **Description de l'oeuvre**
  Cette œuvre représente des peintures abstraites qui prennent vie et deviennent une vidéo. Ces œuvres attirent l'attention des passants grâce aux motifs de couleurs qui hallucinent les spectateurs. L'artiste décrit son œuvre comme une sorte de « tissage vidéographique ». « C’est dans les relations ténues entre le réel et l’abstraction, la lenteur du labeur et l’instantanéité du numérique, la profondeur et la surface que se jouent les rencontres. »
