@@ -18,3 +18,6 @@ Montréal (Québec)
 
 ## **L'artiste**
 Nathalie Bujold est une artiste qui vit ici à Montréal et qui a des œuvres du même type dans plusieurs pays, mais surtout ici au Québec.
+
+
+![photo](toile_nathaliebujold_par_emmaongman_01_f_rec-fr-1695755687.webp)
