@@ -13,7 +13,7 @@ synthétiseur vidéo
 
 Projecteurs
 
- ![photo](Projecteurs.jpeg)
+ ![photo](projecteurs.jpeg)
 
 
 ## **Lieu de mise en exposition**
