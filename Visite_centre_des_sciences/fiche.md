@@ -2,7 +2,12 @@
 ## **Coeur qui s'allume (2017)**
 ![photo](Coeur_qui_s'allume.jpeg)
 
+## **Lieu et date de visite**
+Centre des sciences 
 
+2 rue de la Commune Ouest, Montréal
+
+Le 5 avril
 
 ## **Description du dispositif**
 
