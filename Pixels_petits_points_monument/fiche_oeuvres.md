@@ -39,6 +39,15 @@ Une image de l'artiste
  Cette œuvre représente des peintures abstraites qui prennent vie et deviennent une vidéo. Ces œuvres attirent l'attention des passants grâce aux motifs de couleurs qui hallucinent les spectateurs. L'artiste décrit son œuvre comme une sorte de « tissage vidéographique ». « C’est dans les relations ténues entre le réel et l’abstraction, la lenteur du labeur et l’instantanéité du numérique, la profondeur et la surface que se jouent les rencontres. »
 source:https://www.mbam.qc.ca/fr/expositions/nathalie-bujold/
 
+## **❤️ et 🤔 **
+Ce que j'ai aimé de cette œuvre, c'est le fait qu'elle soit accessible à tout le monde. J'aime aussi le fait que ce soit une œuvre de soir et que le spectateur doive juste admirer. D'un autre côté, je préfère les expositions interactives car elles intriguent le spectateur et le font réagir davantage. Cette œuvre est beaucoup plus calme et contemplative, ce que j'ai beaucoup apprécié.
+
+
+
+
+
+
+
 
 
 
