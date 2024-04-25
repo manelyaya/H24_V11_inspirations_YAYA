@@ -1,6 +1,5 @@
 # Pixels, petits points et monument
-
-![photo](images/Exposition_1.jpeg)
+ ![photo](images/Exposition_1.jpeg)
 
 Image d'une oeuvre de l'artiste
 
