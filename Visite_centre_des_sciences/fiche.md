@@ -1,6 +1,6 @@
 # Visite centre des sciences
 ## **Coeur qui s'allume (2017)**
-![photo](composante.jpg)
+![photo](Coeur_qui_s'allume.jpeg)
 
 
 
